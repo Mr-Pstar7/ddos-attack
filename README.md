@@ -13,13 +13,14 @@ Designed to be a simple way to implement various network pentesting functions, i
  apt install git
  git clone https://github.com/Mr-Pstar7/ddos-attack
  cd ddos-attack
+ npm i
  chmod +x *
  bash setup.sh
  python ddos.py
  ```
 ### Or, Use Single Command
 ```
-apt install python && git clone https://github.com/Mr-Pstar7/ddos-attack && cd ddos-attack && chmod +x * && bash setup.sh && python ddos.py
+apt install python && git clone https://github.com/Mr-Pstar7/ddos-attack && cd ddos-attack && chmod +x * && bash setup.sh && npm i && python ddos.py
 ```
 
 ## [+] Donation:
