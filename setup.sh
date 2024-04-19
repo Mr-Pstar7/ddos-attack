@@ -1,8 +1,8 @@
 #!/bin/bash
 echo "Sedang menginstal module..."
 apt update && apt upgrade 
-apt install nodejs
-apt install python
+pkg install nodejs
+pkg install python
 pip install bs4
 pip install mechanize
 pip3 install colorama
