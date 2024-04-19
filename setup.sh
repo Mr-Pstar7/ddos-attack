@@ -6,7 +6,7 @@ pkg install python
 pip install bs4
 pip install mechanize
 pip3 install colorama
-apt install wget
+pkg install wget
 pip3 install wget
 pip3 install requests
 pip3 install sockets
